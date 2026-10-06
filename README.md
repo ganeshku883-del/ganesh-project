@@ -1,2 +1,3 @@
 # ganesh-project
-it my first project
+its my first project
+Admin
